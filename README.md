@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 # Hi, I'm Oleksandr 👋
 
 Front-End Developer focused on React and JavaScript.
@@ -40,4 +38,4 @@ I'm looking for a Front-End Developer role where I can work on real products, im
 📧 mastermilitarist@gmail.com
 
 💼 LinkedIn: linkedin.com/in/olexandr-undefined-20b3b2363
--->
+
