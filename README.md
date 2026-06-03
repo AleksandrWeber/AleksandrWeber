@@ -1,16 +1,43 @@
 ## Hi there 👋
 
 <!--
-**AleksandrWeber/AleksandrWeber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Oleksandr 👋
 
-Here are some ideas to get you started:
+Front-End Developer focused on React and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+In 2025, I transitioned into software development and have been building web applications, AI-powered tools, and developer-focused projects. My main interests are modern front-end development, automation, and integrating AI capabilities into real products.
+
+## Tech Stack
+
+- JavaScript (ES6+)
+- React
+- HTML5 / CSS3 / SCSS
+- Tailwind CSS
+- REST API
+- Git / GitHub
+- Vite
+
+Currently learning:
+- TypeScript
+- Next.js
+- Node.js
+- SQL
+
+## Featured Projects
+
+### Figmatic
+AI-powered VS Code extension that converts Figma designs into React components.
+
+### VSCode Voicey
+Multimodal AI assistant for Visual Studio Code powered by the Gemini API.
+
+## What I'm Looking For
+
+I'm looking for a Front-End Developer role where I can work on real products, improve my React skills, and contribute to projects that involve AI features, automation, or developer tools.
+
+## Contact
+
+📧 mastermilitarist@gmail.com
+
+💼 LinkedIn: linkedin.com/in/olexandr-undefined-20b3b2363
 -->
