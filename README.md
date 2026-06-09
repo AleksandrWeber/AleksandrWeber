@@ -37,5 +37,5 @@ I'm looking for a Front-End Developer role where I can work on real products, im
 
 📧 mastermilitarist@gmail.com
 
-💼 LinkedIn: linkedin.com/in/olexandr-undefined-20b3b2363
+💼 LinkedIn: https://www.linkedin.com/in/oleksandr-shvachko-frontend-developer/
 
