@@ -10,6 +10,7 @@ In 2025, I transitioned into software development and have been building web app
 - JavaScript (ES6+)
 - React
 - TypeScript
+- Next.js
 - HTML5 / CSS3 / SCSS
 - Tailwind CSS
 - REST API
@@ -17,7 +18,6 @@ In 2025, I transitioned into software development and have been building web app
 - Vite
 
 Currently learning:
-- Next.js
 - Node.js
 - SQL
 
