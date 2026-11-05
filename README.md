@@ -17,9 +17,6 @@ In 2025, I transitioned into software development and have been building web app
 - REST API
 - Git / GitHub
 - Vite
-
-Currently learning:
-
 - SQL
 
 ## Featured Projects
